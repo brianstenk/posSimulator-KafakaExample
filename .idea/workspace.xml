@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f907381d-0102-4801-9a67-956ed324c63b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../PaginationExample/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PaginationExample/src/main/java/com/javatpoint/beans/Emp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PaginationExample/src/main/java/com/javatpoint/controllers/EmpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PaginationExample/src/main/java/com/javatpoint/dao/EmpDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PaginationExample/web/WEB-INF/applicationContext.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PaginationExample/web/WEB-INF/dispatcher-servlet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../PaginationExample/web/WEB-INF/viewemp.jsp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1k2G0PMjgsEg4fLes89eo7sH9KM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../BaseCode/pos-simulator" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="guru.learningjournal.kafka.examples.serde" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Udemy\StarterProject\pos-simulator\src\main\java\guru\learningjournal\kafka\examples" />
+      <recent name="C:\Udemy\StarterProject\pos-simulator" />
+      <recent name="C:\Udemy\StarterProject\pos-simulator\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Batch.start-consumer (1)">
+    <configuration name="PosSimulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="guru.learningjournal.kafka.examples.PosSimulator" />
+      <module name="05-pos-simulator" />
+      <option name="PROGRAM_PARAMETERS" value="pos 3 100" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="guru.learningjournal.kafka.examples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="create-topic" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="pos-simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Udemy\FinalProjects\pos-simulator\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="create-topic.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start-consumer (1)" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="05-pos-simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\EA\pos app kafka\05-pos-simulator-completed\05-pos-simulator\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="start-consumer.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start-consumer" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="pos-simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Udemy\FinalProjects\pos-simulator\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="start-consumer.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start-kafka-server-2" type="BatchConfigurationType" factoryName="Batch" temporary="true">
+      <module name="pos-simulator" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="WORKING_DIRECTORY" value="C:\Udemy\FinalProjects\pos-simulator\scripts" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="start-kafka-server-2.cmd" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.PosSimulator" />
+      <item itemvalue="Batch.create-topic" />
+      <item itemvalue="Batch.start-kafka-server-2" />
+      <item itemvalue="Batch.start-consumer" />
+      <item itemvalue="Batch.start-consumer (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Batch.start-consumer (1)" />
+        <item itemvalue="Application.PosSimulator" />
+        <item itemvalue="Batch.start-consumer" />
+        <item itemvalue="Batch.create-topic" />
+        <item itemvalue="Batch.start-kafka-server-2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f907381d-0102-4801-9a67-956ed324c63b" name="Default Changelist" comment="" />
+      <created>1563252261546</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563252261546</updated>
+      <workItem from="1604891050746" duration="3593000" />
+      <workItem from="1605113676687" duration="3348000" />
+      <workItem from="1605204754141" duration="3881000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="135" key="#Docker" timestamp="1605118303824">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="536" y="135" key="#Docker/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1605118303824" />
+    <state x="2577" y="139" key="#PosSimulator" timestamp="1605207775395">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2577" y="139" key="#PosSimulator/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605207775395" />
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom" timestamp="1605279277421">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605279277421" />
+    <state width="1877" height="316" key="GridCell.Tab.0.center" timestamp="1605279277420">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605279277420" />
+    <state width="1877" height="316" key="GridCell.Tab.0.left" timestamp="1605279277419">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605279277419" />
+    <state width="1877" height="316" key="GridCell.Tab.0.right" timestamp="1605279277421">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="316" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1605279277421" />
+  </component>
+</project>
